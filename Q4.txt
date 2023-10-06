@@ -1,0 +1,77 @@
+
+<html>
+
+The root element of an HTML document.
+It contains all the other HTML elements on the page.
+<head>:
+
+Contains meta-information about the HTML document.
+Includes elements like <title>, <meta>, and <link>.
+<title>:
+
+Sets the title of the HTML document, which appears in the browser's title bar or tab.
+<meta>:
+
+Provides metadata about the HTML document, such as character encoding and author information.
+<link>:
+
+Defines external resources like stylesheets (CSS) to be used with the HTML document.
+<body>:
+
+Contains the main content of the HTML document, visible in the browser window.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>:
+
+Heading tags used to create headings of varying levels of importance.
+<h1> is the highest level, and <h6> is the lowest.
+<p>:
+
+Represents a paragraph of text.
+<a>:
+
+Creates hyperlinks to other web pages or resources.
+Uses the href attribute to specify the link's destination.
+<img>:
+
+Embeds images in the HTML document.
+Requires the src attribute to specify the image file path.
+<ul>:
+
+Defines an unordered (bulleted) list.
+Contains <li> elements for list items.
+<ol>:
+
+Defines an ordered (numbered) list.
+Contains <li> elements for list items.
+<li>:
+
+Represents a list item within <ul> or <ol> elements.
+<div>:
+
+A generic container for grouping and styling HTML elements.
+Often used with CSS for layout and styling purposes.
+<span>:
+
+A generic inline container used for applying styles or scripting to a specific portion of text.
+<table>:
+
+Defines an HTML table.
+Contains <tr> (table row), <th> (table header), and <td> (table data) elements.
+<form>:
+
+Used to create web forms for user input.
+Includes input elements like <input>, <textarea>, and <button>.
+<input>:
+
+Represents an input field in a form.
+Various types like text, password, checkbox, radio, etc.
+<textarea>:
+
+Creates a multi-line text input field within a form.
+<button>:
+
+Defines a clickable button within a form.
+These are some of the most commonly used HTML tags, but HTML offers a wide range of elements for structuring and formatting web content.
+
+
+
+
